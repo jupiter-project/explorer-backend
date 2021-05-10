@@ -1,0 +1,26 @@
+{
+  "name": "jupiter-blockchain-explorer",
+  "version": "0.6.0",
+  "description": "Jupiter blockchain explorer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.0",
+    "nodemon": "^2.0.1",
+    "react-js-pagination": "^3.0.3",
+    "react-tabl": "^0.8.0",
+    "react-table": "^6.x.x",
+    "reactjs-popup": "^1.5.0",
+    "request": "^2.88.0"
+  },
+  "keywords": [],
+  "author": "sigwo",
+  "license": "ISC"
+}

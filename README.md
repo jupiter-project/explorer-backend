@@ -1,2 +1,2 @@
-# explorer-backend
-Backend fo Jupiter Explorer
+# jupiter-explorer
+Jupiter's official explorer
